@@ -1,0 +1,78 @@
+body{
+	font-family: Lucida Bright, Times New Roman, serif;
+	font-size: 14px;
+}
+
+.highlight {
+	font-weight: bold;
+	color: white;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+img{
+	width: 300px;
+	display: block;
+	margin: 0 auto;
+}
+
+.card{
+  margin: 0 auto;
+	width: 330px;
+	color: #DDD;
+	background-color: black;
+	box-shadow: 13px 17px 11px -7px #777;
+}
+
+.fact{
+	font-style: italic;
+}
+
+.box{
+	border: 1px solid rgba(185, 0, 0, 0.64);
+	border-radius: 10px;
+}
+
+h3{
+	color: black;
+	text-align: center;
+	text-shadow: -1px -1px 1px red, 1px 1px 1px red, -1px 1px 1px red, 1px -1px 1px red;
+	-webkit-animation: flicker 3s infinite;
+}
+
+.information{
+	margin: 13px;
+	padding: 0px 15px;
+	text-align: justify;
+	background-color: #350909;
+}
+
+footer{
+	font-size: 11px;
+	font-style: italic;
+	padding: 0px 15px;
+	text-align: center;
+}
+
+a:link {
+	color: red;
+}
+
+a:visited {
+	color: #b30b0b;
+}	
+
+@-webkit-keyframes flicker{
+	0% {opacity:0;}
+	9% {opacity:.1;}
+	10% {opacity:.5;}
+	13% {opacity:0;}
+	20% {opacity:.5;}
+	25% {opacity:1;}
+	31% {opacity:.7;}
+	50% {opacity:.9;}
+  100% {opacity:1;}
+}
