@@ -29,6 +29,7 @@
 * [Practical JS](https://watchandcode.com/p/practical-javascript)
 * [JS the right way](http://jstherightway.org)
 * [Programming JS Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
+* [JavaScript.Info](http://javascript.info)
 
 ## JavaScript challenges and exercices
 * [JS Codewars](https://www.codewars.com/?language=javascript)
@@ -67,6 +68,7 @@
 * [Sitepoint](https://www.sitepoint.com)
 * [Code.org](https://code.org)
 * [TutorialsPoint](https://www.tutorialspoint.com)
+* [Hackr](https://hackr.io)
 
 ## Fonts and typography
 * [Font Awesome](http://fontawesome.io)
