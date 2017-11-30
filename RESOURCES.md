@@ -30,6 +30,7 @@
 * [JS the right way](http://jstherightway.org)
 * [Programming JS Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
 * [JavaScript.Info](http://javascript.info)
+* [JS Robot](https://lab.reaal.me/jsrobot/)
 
 ## JavaScript challenges and exercices
 * [JS Codewars](https://www.codewars.com/?language=javascript)
@@ -196,4 +197,4 @@
 * [10 impressive examples of CSS3 animation](http://www.creativebloq.com/css3/animation-with-css3-712437)
 * [Mybridge](https://www.mybridge.co)
 
-Last update: November 29th, 2017
+Last update: November 30th, 2017
