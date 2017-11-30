@@ -105,6 +105,7 @@
 * [Coolors](https://coolors.co)
 * [Dribbble](https://dribbble.com)
 * [Material Palette](https://www.materialpalette.com)
+* [Flaticons UI Colors](https://flatuicolors.com)
 
 ## Flexbox 
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -169,6 +170,7 @@
 * [Coding Games](https://www.codingame.com)
 * [CheckiO](https://checkio.org)
 * [CSS Diner](https://flukeout.github.io)
+* [Flukeout (CSS exercises)](http://flukeout.github.io)
 
 ## Youtube channels 
 * [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
