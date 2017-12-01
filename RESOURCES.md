@@ -125,6 +125,9 @@
 * [Pixabay](https://pixabay.com)
 * [Flaticons](http://flaticons.net)
 * [Free images](https://www.freeimages.com)
+* [Burst Shopify](https://burst.shopify.com)
+* [Isorepublic](https://isorepublic.com)
+* [Gratisography](https://gratisography.com)
 
 ## Podcasts 
 * [Castbox](https://castbox.fm)
@@ -188,7 +191,9 @@
 * [Devdocs API documentation](http://devdocs.io)
 * [CodePen](https://codepen.io)
 * [Jonas’ Resources](http://codingheroes.io/resources/)
-* [Emmet CheatSheet](https://docs.emmet.io/cheat-sheet/	)
+* [Emmet CheatSheet](https://docs.emmet.io/cheat-sheet/)
+* [Makerbook](http://makerbook.net)
+* [Dirty Markup](https://www.10bestdesign.com/dirtymarkup/)
 
 ## Articles
 * [5 things you should do to get selected for the 2nd phase of your Google-Udacity Scholarship](https://medium.com/udacity/the-5-things-you-need-to-do-to-get-selected-for-the-2nd-phase-of-your-google-udacity-scholarship-649f22376030)
@@ -199,4 +204,4 @@
 * [10 impressive examples of CSS3 animation](http://www.creativebloq.com/css3/animation-with-css3-712437)
 * [Mybridge](https://www.mybridge.co)
 
-Last update: November 30th, 2017
+Last update: December 1st, 2017
