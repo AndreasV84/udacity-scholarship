@@ -79,7 +79,6 @@
 * [Typogui](http://www.typogui.de)
 * [Typography Handbook](http://www.typographyhandbook.com)
 
-
 ## Online Tools
 * [CSSmatic](https://www.cssmatic.com)
 * [CSS3gen](https://css3gen.com)
@@ -106,6 +105,7 @@
 * [Dribbble](https://dribbble.com)
 * [Material Palette](https://www.materialpalette.com)
 * [Flaticons UI Colors](https://flatuicolors.com)
+* [UI Gradients](https://uigradients.com/)
 
 ## Flexbox 
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -128,6 +128,15 @@
 * [Burst Shopify](https://burst.shopify.com)
 * [Isorepublic](https://isorepublic.com)
 * [Gratisography](https://gratisography.com)
+* [Jaymantri](http://jaymantri.com/)
+* [Foodiesfeed](https://www.foodiesfeed.com/)
+* [Negative Space](https://negativespace.co/)
+* [Freestocks](https://freestocks.org)
+* [Picography](https://picography.co/)
+* [MMT](https://mmtstock.com/)
+* [Skitterphoto](https://skitterphoto.com/)
+* [Shot Stash](https://shotstash.com)
+* [Styled Stock](https://styledstock.co/)
 
 ## Podcasts 
 * [Castbox](https://castbox.fm)
@@ -155,6 +164,7 @@
 * [HTML&CSS](http://wtf.tw/ref/duckett.pdf)
 * [HTML ebook](https://www.tutorialspoint.com/html/html_tutorial.pdf)
 * [15 Best Front-end Development Books](http://whatpixel.com/best-frontend-development-books/)
+* [Speaking JavaScript](http://speakingjs.com/es5/)
 
 ## Reddit threads
 * [Web development](https://www.reddit.com/r/webdev/)
@@ -194,6 +204,7 @@
 * [Emmet CheatSheet](https://docs.emmet.io/cheat-sheet/)
 * [Makerbook](http://makerbook.net)
 * [Dirty Markup](https://www.10bestdesign.com/dirtymarkup/)
+* [Pattern Library](http://thepatternlibrary.com/)
 
 ## Articles
 * [5 things you should do to get selected for the 2nd phase of your Google-Udacity Scholarship](https://medium.com/udacity/the-5-things-you-need-to-do-to-get-selected-for-the-2nd-phase-of-your-google-udacity-scholarship-649f22376030)
