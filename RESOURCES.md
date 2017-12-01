@@ -78,6 +78,11 @@
 * [Google Web fonts](https://femmebot.github.io/google-type/)
 * [Typogui](http://www.typogui.de)
 * [Typography Handbook](http://www.typographyhandbook.com)
+* [Typewolf](https://www.typewolf.com)
+* [Canva](https://www.canva.com)
+* [Font Squirrel](https://www.fontsquirrel.com)
+* [DaFont](https://www.dafont.com)
+* [1001FreeFonts](https://www.1001freefonts.com)
 
 ## Online Tools
 * [CSSmatic](https://www.cssmatic.com)
@@ -106,6 +111,7 @@
 * [Material Palette](https://www.materialpalette.com)
 * [Flaticons UI Colors](https://flatuicolors.com)
 * [UI Gradients](https://uigradients.com/)
+* [Colour Lovers](http://www.colourlovers.com)
 
 ## Flexbox 
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -137,6 +143,7 @@
 * [Skitterphoto](https://skitterphoto.com/)
 * [Shot Stash](https://shotstash.com)
 * [Styled Stock](https://styledstock.co/)
+* [Freepik](https://www.freepik.com)
 
 ## Podcasts 
 * [Castbox](https://castbox.fm)
