@@ -31,6 +31,7 @@
 * [Programming JS Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
 * [JavaScript.Info](http://javascript.info)
 * [JS Robot](https://lab.reaal.me/jsrobot/)
+* [JavaScript is sexy](http://javascriptissexy.com)
 
 ## JavaScript challenges and exercices
 * [JS Codewars](https://www.codewars.com/?language=javascript)
@@ -221,5 +222,6 @@
 * [What Programming Language Should a Beginner Learn in 2017?](https://www.codementor.io/codementorteam/beginner-programming-language-job-salary-community-7s26wmbm6)
 * [10 impressive examples of CSS3 animation](http://www.creativebloq.com/css3/animation-with-css3-712437)
 * [Mybridge](https://www.mybridge.co)
+* [How to prototype websites quickly with CSS Grid](https://medium.freecodecamp.org/how-to-prototype-websites-quickly-with-css-grid-ffc9cba08583)
 
-Last update: December 1st, 2017
+Last update: December 2nd, 2017
