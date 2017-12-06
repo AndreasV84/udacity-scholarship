@@ -117,6 +117,7 @@
 ## Flexbox 
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [CSS Flexbox Toolbox](https://speckyboy.com/css-flexbox-toolbox/)
+* [Learn Layout (flexbox)](http://learnlayout.com/flexbox.html)
 
 ## Bootstrap Framework and CSS Grid
 * [Bootstrap Framework](https://getbootstrap.com/docs/3.3/)
@@ -201,6 +202,7 @@
 * [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
 * [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
 * [Le Wagon](https://www.youtube.com/channel/UChCDYcBCrb8tuPAO6e0P-Hw)
+* [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 
 ## Miscellaneous 
 * [Material Design](https://material.io)
@@ -224,4 +226,4 @@
 * [Mybridge](https://www.mybridge.co)
 * [How to prototype websites quickly with CSS Grid](https://medium.freecodecamp.org/how-to-prototype-websites-quickly-with-css-grid-ffc9cba08583)
 
-Last update: December 2nd, 2017
+Last update: December 6th, 2017
