@@ -71,6 +71,7 @@
 * [Code.org](https://code.org)
 * [TutorialsPoint](https://www.tutorialspoint.com)
 * [Hackr](https://hackr.io)
+* [Egg Head](https://egghead.io)
 
 ## Fonts and typography
 * [Font Awesome](http://fontawesome.io)
@@ -137,7 +138,7 @@
 * [Isorepublic](https://isorepublic.com)
 * [Gratisography](https://gratisography.com)
 * [Jaymantri](http://jaymantri.com/)
-* [Foodiesfeed](https://www.foodiesfeed.com/)
+* [Foodies Feed](https://www.foodiesfeed.com/)
 * [Negative Space](https://negativespace.co/)
 * [Freestocks](https://freestocks.org)
 * [Picography](https://picography.co/)
@@ -174,6 +175,7 @@
 * [HTML ebook](https://www.tutorialspoint.com/html/html_tutorial.pdf)
 * [15 Best Front-end Development Books](http://whatpixel.com/best-frontend-development-books/)
 * [Speaking JavaScript](http://speakingjs.com/es5/)
+* [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#javascript)
 
 ## Reddit threads
 * [Web development](https://www.reddit.com/r/webdev/)
@@ -215,6 +217,7 @@
 * [Makerbook](http://makerbook.net)
 * [Dirty Markup](https://www.10bestdesign.com/dirtymarkup/)
 * [Pattern Library](http://thepatternlibrary.com/)
+* [UX Design](https://uxdesign.cc)
 
 ## Articles
 * [5 things you should do to get selected for the 2nd phase of your Google-Udacity Scholarship](https://medium.com/udacity/the-5-things-you-need-to-do-to-get-selected-for-the-2nd-phase-of-your-google-udacity-scholarship-649f22376030)
@@ -226,4 +229,4 @@
 * [Mybridge](https://www.mybridge.co)
 * [How to prototype websites quickly with CSS Grid](https://medium.freecodecamp.org/how-to-prototype-websites-quickly-with-css-grid-ffc9cba08583)
 
-Last update: December 6th, 2017
+Last update: December 7th, 2017
