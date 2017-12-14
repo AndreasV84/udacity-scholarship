@@ -2,7 +2,7 @@
 #### Resources collected at the forum during the Google / Udacity Front-End Developer Scholarship
 
 ## HTML
-* [HTML5.3](http://w3c.github.io/html/)
+* [HTML 5.3](http://w3c.github.io/html/)
 * [HTML MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [HTML CheatSheet](https://digital.com/tools/html-cheatsheet/)
 * [Mega HTML CheatSheet](https://medium.com/level-up-web/the-mega-html5-cheatsheet-e8c479b1c521)
@@ -29,9 +29,10 @@
 * [Practical JS](https://watchandcode.com/p/practical-javascript)
 * [JS the right way](http://jstherightway.org)
 * [Programming JS Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
-* [JavaScript.Info](http://javascript.info)
+* [JS.Info](http://javascript.info)
 * [JS Robot](https://lab.reaal.me/jsrobot/)
 * [JavaScript is sexy](http://javascriptissexy.com)
+* [ES6 Features](http://es6-features.org/)
 
 ## JavaScript challenges and exercices
 * [JS Codewars](https://www.codewars.com/?language=javascript)
@@ -49,7 +50,7 @@
 ## Courses and online learning
 * [Udacity](https://www.udacity.com)
 * [FreeCodeCamp](https://www.freecodecamp.org)
-* [Tree House](https://teamtreehouse.com)
+* [Team Tree House](https://teamtreehouse.com)
 * [Sololearn](https://www.sololearn.com)
 * [Dash](https://dash.generalassemb.ly)
 * [The new Boston](https://thenewboston.com)
@@ -71,7 +72,10 @@
 * [Code.org](https://code.org)
 * [TutorialsPoint](https://www.tutorialspoint.com)
 * [Hackr](https://hackr.io)
+* [Pluralsight](https://www.pluralsight.com)
+* [Internet is hard](https://internetingishard.com)
 * [Egg Head](https://egghead.io)
+* [Sabe](https://sabe.io)
 
 ## Fonts and typography
 * [Font Awesome](http://fontawesome.io)
@@ -112,8 +116,11 @@
 * [Dribbble](https://dribbble.com)
 * [Material Palette](https://www.materialpalette.com)
 * [Flaticons UI Colors](https://flatuicolors.com)
-* [UI Gradients](https://uigradients.com/)
+* [Noun Project](https://thenounproject.com)
+* [Icon Store](https://iconstore.co)
+* [Material Design](https://material.io)
 * [Colour Lovers](http://www.colourlovers.com)
+* [UI Gradients](https://uigradients.com/)
 
 ## Flexbox 
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -174,8 +181,8 @@
 * [HTML&CSS](http://wtf.tw/ref/duckett.pdf)
 * [HTML ebook](https://www.tutorialspoint.com/html/html_tutorial.pdf)
 * [15 Best Front-end Development Books](http://whatpixel.com/best-frontend-development-books/)
-* [Speaking JavaScript](http://speakingjs.com/es5/)
 * [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#javascript)
+* [Speaking JavaScript](http://speakingjs.com/es5/)
 
 ## Reddit threads
 * [Web development](https://www.reddit.com/r/webdev/)
@@ -206,18 +213,32 @@
 * [Le Wagon](https://www.youtube.com/channel/UChCDYcBCrb8tuPAO6e0P-Hw)
 * [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 
+##Design
+* [Design Inspiration](https://www.designspiration.net)
+* [Behance](https://www.behance.net)
+* [The Inspiration Grid](http://theinspirationgrid.com)
+* [Site Inspire](https://www.siteinspire.com)
+* [Dribble](https://dribbble.com)
+* [Awwards](https://www.awwwards.com)
+* [Co Design](https://www.fastcodesign.com)
+* [Inspire Design](http://inspiredesign.me/)
+
 ## Miscellaneous 
-* [Material Design](https://material.io)
 * [Stackoverflow](https://stackoverflow.com)
 * [Codrops](https://tympanus.net/codrops/)
 * [Devdocs API documentation](http://devdocs.io)
 * [CodePen](https://codepen.io)
 * [Jonas’ Resources](http://codingheroes.io/resources/)
 * [Emmet CheatSheet](https://docs.emmet.io/cheat-sheet/)
+* [UX Design](https://uxdesign.cc)
 * [Makerbook](http://makerbook.net)
 * [Dirty Markup](https://www.10bestdesign.com/dirtymarkup/)
 * [Pattern Library](http://thepatternlibrary.com/)
-* [UX Design](https://uxdesign.cc)
+* [Collection of JavaScript libraries, resources and shiny things](https://github.com/sorrycc/awesome-javascript)
+
+## Learning Paths
+* [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+* [Coggle Diagram](https://coggle.it/diagram/Vz9LvW8byvN0I38x)
 
 ## Articles
 * [5 things you should do to get selected for the 2nd phase of your Google-Udacity Scholarship](https://medium.com/udacity/the-5-things-you-need-to-do-to-get-selected-for-the-2nd-phase-of-your-google-udacity-scholarship-649f22376030)
@@ -228,5 +249,6 @@
 * [10 impressive examples of CSS3 animation](http://www.creativebloq.com/css3/animation-with-css3-712437)
 * [Mybridge](https://www.mybridge.co)
 * [How to prototype websites quickly with CSS Grid](https://medium.freecodecamp.org/how-to-prototype-websites-quickly-with-css-grid-ffc9cba08583)
+* [15 Web Developer Portfolios to Inspire You](https://medium.freecodecamp.org/15-web-developer-portfolios-to-inspire-you-137fb1743cae)
 
-Last update: December 7th, 2017
+Last update: December 14th, 2017
