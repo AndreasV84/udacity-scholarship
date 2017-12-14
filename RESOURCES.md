@@ -213,7 +213,7 @@
 * [Le Wagon](https://www.youtube.com/channel/UChCDYcBCrb8tuPAO6e0P-Hw)
 * [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 
-##Design
+## Design
 * [Design Inspiration](https://www.designspiration.net)
 * [Behance](https://www.behance.net)
 * [The Inspiration Grid](http://theinspirationgrid.com)
