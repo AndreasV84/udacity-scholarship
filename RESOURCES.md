@@ -183,6 +183,7 @@
 * [15 Best Front-end Development Books](http://whatpixel.com/best-frontend-development-books/)
 * [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#javascript)
 * [Speaking JavaScript](http://speakingjs.com/es5/)
+* [JS Books](https://jsbooks.revolunet.com)
 
 ## Reddit threads
 * [Web development](https://www.reddit.com/r/webdev/)
@@ -251,4 +252,4 @@
 * [How to prototype websites quickly with CSS Grid](https://medium.freecodecamp.org/how-to-prototype-websites-quickly-with-css-grid-ffc9cba08583)
 * [15 Web Developer Portfolios to Inspire You](https://medium.freecodecamp.org/15-web-developer-portfolios-to-inspire-you-137fb1743cae)
 
-Last update: December 14th, 2017
+Last update: December 15th, 2017
