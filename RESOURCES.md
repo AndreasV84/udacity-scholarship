@@ -41,6 +41,7 @@
 * [JS Exercises](http://www.asmarterwaytolearn.com/js/index-of-exercises.html)
 * [JS Exercises2](https://www.w3resource.com/javascript-exercises/javascript-basic-exercises.php)
 * [Edabit](https://edabit.com)
+* [HackerRank](https://www.hackerrank.com)
 
 ## Jquery
 * [Documentation](http://api.jquery.com)
@@ -126,6 +127,7 @@
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [CSS Flexbox Toolbox](https://speckyboy.com/css-flexbox-toolbox/)
 * [Learn Layout (flexbox)](http://learnlayout.com/flexbox.html)
+* [Flexbox.io](https://flexbox.io)
 
 ## Bootstrap Framework and CSS Grid
 * [Bootstrap Framework](https://getbootstrap.com/docs/3.3/)
@@ -251,5 +253,7 @@
 * [Mybridge](https://www.mybridge.co)
 * [How to prototype websites quickly with CSS Grid](https://medium.freecodecamp.org/how-to-prototype-websites-quickly-with-css-grid-ffc9cba08583)
 * [15 Web Developer Portfolios to Inspire You](https://medium.freecodecamp.org/15-web-developer-portfolios-to-inspire-you-137fb1743cae)
+* [Responsive Web Design: 50 Examples and Best Practices](https://designmodo.com/responsive-design-examples/)
+* [List of fun apps to build!](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
 
-Last update: December 15th, 2017
+Last update: December 25th, 2017
