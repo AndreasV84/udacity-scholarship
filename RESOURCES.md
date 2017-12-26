@@ -90,6 +90,7 @@
 * [Font Squirrel](https://www.fontsquirrel.com)
 * [DaFont](https://www.dafont.com)
 * [1001FreeFonts](https://www.1001freefonts.com)
+* [Font Pair](http://fontpair.co)
 
 ## Online Tools
 * [CSSmatic](https://www.cssmatic.com)
@@ -225,15 +226,20 @@
 * [Awwards](https://www.awwwards.com)
 * [Co Design](https://www.fastcodesign.com)
 * [Inspire Design](http://inspiredesign.me/)
+* [Designify](http://designify.me/)
+
+## UI / UX Design
+
+* [Codrops](https://tympanus.net/codrops/)
+* [UX Design](https://uxdesign.cc)
+* [Code My UI](https://codemyui.com/)
 
 ## Miscellaneous 
 * [Stackoverflow](https://stackoverflow.com)
-* [Codrops](https://tympanus.net/codrops/)
 * [Devdocs API documentation](http://devdocs.io)
 * [CodePen](https://codepen.io)
 * [Jonas’ Resources](http://codingheroes.io/resources/)
 * [Emmet CheatSheet](https://docs.emmet.io/cheat-sheet/)
-* [UX Design](https://uxdesign.cc)
 * [Makerbook](http://makerbook.net)
 * [Dirty Markup](https://www.10bestdesign.com/dirtymarkup/)
 * [Pattern Library](http://thepatternlibrary.com/)
