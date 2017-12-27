@@ -20,14 +20,11 @@ function paint(pixel) {
     pixel.css('background-color', color);
 }
 
-$(function() {
+$("input[type='submit']").click(function(event) {
+    event.preventDefault();
+    makeGrid();
+});
 
-    $("input[type='submit']").click(function(event) {
-        event.preventDefault();
-        makeGrid();
-    });
-
-    $('#pixel_canvas').on('click', 'td', function() {
-        paint($(this));
-    });
+$('#pixel_canvas').on('click', 'td', function() {
+    paint($(this));
 });
